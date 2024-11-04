@@ -29,7 +29,7 @@
     "file-saver": "^2.0.5",
     "firebase": "^10.14.0",
     "moment": "^2.30.1",
-    "moment-timezone": "0.5.14",
+    "moment-timezone": "0.5.35",
     "ngx-cookie-service": "^18.0.0",
     "ngx-device-detector": "^8.0.0",
     "ngx-infinite-scroll": "^18.0.0",
